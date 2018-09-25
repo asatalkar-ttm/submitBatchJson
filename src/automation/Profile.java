@@ -1,4 +1,4 @@
-package com.company;
+package automation;
 
 public class Profile {
 

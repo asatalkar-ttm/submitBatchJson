@@ -1,4 +1,4 @@
-package com.company;
+package automation;
 
 import java.util.Date;
 
